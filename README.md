@@ -1,0 +1,4 @@
+mckinect
+========
+
+Expirimental kinect project
